@@ -1,9 +1,9 @@
-import { Titulo } from "./components/DadosPessoais";
+import { Curriculo } from "./pages/Curriculo";
 
 export function App() {
   return (
     <div>
-      <Titulo />
+      <Curriculo />
     </div>
   );
 }
